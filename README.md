@@ -1,2 +1,2 @@
 # ai-etl-monitoring-agent
-It teels about monitoring etl data report and answering the queries using mcp tools
+It tells about monitoring everyday etl data report and answering the queries using mcp tools
